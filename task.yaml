@@ -1,0 +1,4 @@
+name: Random Dad Joke
+outputs:
+  - name: Joke
+    type: string
