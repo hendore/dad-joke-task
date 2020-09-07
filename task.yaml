@@ -1,5 +1,5 @@
 name: Random Dad Joke
-icon: https://github.com/hendore/dad-joke-task/blob/master/icon.jpg
+icon: https://github.com/hendore/dad-joke-task/raw/master/icon.jpg
 outputs:
   - name: Joke
     type: string
